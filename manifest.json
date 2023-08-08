@@ -1,0 +1,59 @@
+{
+  "manifest_version": 3,
+  "name": "Chamongo 下载支持",
+  "description": "协同 Chamongo 在 Google Chrome 内核的浏览器中完成下载任务。",
+  "version": "1.0.1.805",
+  "icons": {
+    "16": "images/logo/chamongo.png",
+    "32": "images/logo/chamongo.png",
+    "48": "images/logo/chamongo.png",
+    "128": "images/logo/chamongo.png"
+  },
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "permissions": [
+    "contextMenus",
+    "tabs",
+    "notifications",
+    "webNavigation",
+    "storage",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+    "background": {
+    "service_worker": "scripts/background.js",
+    "type": "module"
+  },
+    "action": {
+    "default_icon": "images/logo/chamongo.png",
+    "default_title": "Chamongo 下载支持",
+    "default_popup": "pages/popup.html"
+  },
+    "options_page": "pages/options.html",
+    "content_scripts": [
+        {
+      "all_frames": true,
+      "js": [
+        "scripts/schema_check/protocol.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "run_at": "document_start"
+    },
+        {
+      "all_frames": true,
+      "js": [
+        "scripts/schema_check/check.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}
