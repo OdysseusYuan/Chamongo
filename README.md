@@ -6,6 +6,12 @@
 目前包含的功能：
 - 支持用户下载 Http、Https、FTP、磁力链接、BT种子等协议的文件。
 
+## 操作界面
+- Chamongo - BT下载实测图
+> ![images](https://gitee.com/OdysseusYuan/Chamongo/raw/master/preview/chamongo_downloading.png)
+- Chamongo - 易用的偏好设置
+> ![images](https://gitee.com/OdysseusYuan/Chamongo/raw/master/preview/chamongo_preference.png)
+
 ## 使用方法
 - 下载形如：Chamongo_Installer_v*.exe 的安装包，地址：https://github.com/OdysseusYuan/Chamongo/releases/latest
 - 运行安装包，按照提示安装后即可运行。
