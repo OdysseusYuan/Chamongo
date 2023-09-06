@@ -2,15 +2,14 @@
 
 ## Chamongo
  > 一款高效、智能的下载工具。无广告、绿色、简约、安全、无毒。
-
-目前包含的功能：
+ 
 - 支持用户下载 Http、Https、FTP、磁力链接、BT种子等协议的文件。
 
 ### 操作界面
 - Chamongo - BT下载实测
-> ![images](https://github.com/OdysseusYuan/Chamongo/raw/master/preview/chamongo_downloading.png)
+> ![images](https://gitee.com/OdysseusYuan/Chamongo/raw/master/preview/chamongo_downloading.png)
 - Chamongo - 易用的偏好设置
-> ![images](https://github.com/OdysseusYuan/Chamongo/raw/master/preview/chamongo_preference.png)
+> ![images](https://gitee.com/OdysseusYuan/Chamongo/raw/master/preview/chamongo_preference.png)
 
 ### 使用方法
 - 下载形如：Chamongo_Installer_v*.exe 的安装包，地址：https://github.com/OdysseusYuan/Chamongo/releases/latest
@@ -23,10 +22,7 @@
 ### 使用说明
 - 未经开发者正式书面同意，任何人、企业、机构等，不得采用任何直接或间接的方式将本产品商业化，本产品作者有权追究违反者的一切法律责任。
 - 产品目前处于大版本迭代阶段，会持续产出功能性和改善性的需求，这可能会对您的计算机产生些许影响。
-
-### 版权保护
-- 全套软件已获多项著作权（含修改保护）：软著登字第11174426号等共计6项。
-- 严禁任何人、企业、机构等通过非法手段破解/反编译本软件，如需要接口样例，请在官网获取。
+- 严禁任何人、企业、机构等通过非法手段破解/反编译本软件，若要获取扩展源码，请在官网下载。
 
 ### 关于
 - 如有建议、疑惑等，您可以发邮件至 [liukaiyuan@sjtu.edu.cn](mailto:liukaiyuan@sjtu.edu.cn) 交流探讨。
