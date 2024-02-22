@@ -22,5 +22,5 @@
 - 严禁任何人、企业、机构等通过非法手段破解/反编译本软件，若要获取扩展源码，请在官网下载。
 
 ### 关于
-- 如有建议、疑惑等，您可以发邮件至 [feedback@chamongo.com](mailto:feedback@chamongo.com) 交流探讨。
+- 如有建议、疑惑等，您可以发邮件至 [OdysseusYuan@foxmail.com](mailto:OdysseusYuan@foxmail.com) 交流探讨。
 - © 2023 Chamongo.com. All Rights Reserved.
